@@ -1,3 +1,5 @@
+//snake,water,gun game.
+
 #include<stdio.h>
 #include<time.h>
 #include<unistd.h>
